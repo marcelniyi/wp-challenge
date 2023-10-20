@@ -1,0 +1,16 @@
+{
+    "name": "user/wp",
+    "description": "WP Media challenge for building php crowler appliaction",
+    "autoload": {
+        "psr-4": {
+            "User\\Wp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Niyitegeka Marcel"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
